@@ -140,3 +140,4 @@
 
 
 console.log("registro linux")
+console.log("second reg")
