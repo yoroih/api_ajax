@@ -137,3 +137,6 @@
 
   getData();
 })();
+
+
+console.log("registro linux")
